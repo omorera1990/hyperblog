@@ -2,4 +2,4 @@ Esto es una prueba del
 curso de platzi
 gi y git hud
 se modifica el archivo
-la historia e su vida
+la historia e su vida y hombra maestra
